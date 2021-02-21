@@ -11,6 +11,7 @@ https://www.youtube.com/channel/UCZZ0NTtOgsLIT4Skr6GUpAw
 Página: https://supercursos.thinkific.com/
 
 ### NodeShop
-Exemplo de uma página estática feita com HTML5 e CSS3
+Exemplo de uma página estática feita com HTML5 e CSS3 
+
 Página: https://supercursos.thinkific.com/
 
