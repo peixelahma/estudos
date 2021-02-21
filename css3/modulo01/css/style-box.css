@@ -1,0 +1,16 @@
+/* Box-sizing não permite que ao acrescentar um padding aumente o tamanho definido do conteúdo */
+* {
+  box-sizing: border-box;
+}
+#conteudo {
+  background-color: rgb(48, 63, 202);
+  width: 300px;
+  padding: 20px;
+  box-shadow: 10px 10px 5px green;
+}
+#border {
+  background-color: red;
+  width: 350px;
+  height: 200px;
+  border-radius: 10px 300px 50px;
+}

@@ -1,0 +1,13 @@
+.texto-principal {
+  color: red;
+  text-align: center;
+}
+.fundo-principal {
+  background-color: silver;
+}
+
+#conteudo {
+  background-color: blue;
+  padding: 20px;
+  color: green;
+}

@@ -1,0 +1,26 @@
+#exemplo {
+  background-color: rgb(7, 245, 7);
+  color: rgb(10, 10, 10);
+  min-width: 500px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 40px;
+  padding-left: 40px;
+}
+
+#exemplo2 {
+  background-color: rgb(7, 245, 7);
+  color: rgb(10, 10, 10);
+  width: 500px;
+  height: 300px;
+  padding: 10px 20px 30px 30px;
+}
+
+#exemplo3 {
+  background-color: red;
+  color: rgb(10, 10, 10);
+  width: 500px;
+  height: 300px;
+  padding: 10px 20px 30px 30px;
+  margin: 20px 20px 20px 20px;
+}
