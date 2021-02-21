@@ -16,3 +16,9 @@ Exemplo de uma página estática feita com HTML5 e CSS3
 Página: https://supercursos.thinkific.com/
 
 Referência de códigos: https://www.nodestudio.com.br/blog/arquivos-download
+
+### Flexbox
+Página de um projeto do Curso de CSS Flexbox do canal no Youtube - Node Studio Treinamentos
+
+Link: https://www.youtube.com/c/NodeStudioTreinamentos
+
